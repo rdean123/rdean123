@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1>Hi, I'm Rdean 👋</h1>
 
-<!--
-**rdean123/rdean123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I'm a <strong>Computer Science student</strong> interested in
+<strong>Software Engineering</strong> and <strong>Full-Stack Development</strong>.
+</p>
 
-Here are some ideas to get you started:
+<h2>Currently Working On</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>Improving my programming and problem-solving skills</li>
+  <li>Building projects with Java</li>
+  <li>Learning React, TypeScript, and modern web development</li>
+  <li>Exploring databases and backend development</li>
+</ul>
+
+<h2>Tools I Use</h2>
+
+<p><strong>Languages:</strong> Java, JavaScript, TypeScript, Python, HTML, CSS</p>
+<p><strong>Frontend:</strong> React</p>
+<p><strong>Backend:</strong> Node.js</p>
+<p><strong>Database:</strong> Supabase</p>
+<p><strong>Tools:</strong> Git, GitHub, VS Code, IntelliJ IDEA</p>
+
+<h2>Reach Me</h2>
+
+<p>
+📧 <strong>Email:</strong> 
+<a href="mailto:rdean12007@gmail.com">rdean12007@gmail.com</a>
+</p>
+
+<p>
+💼 <strong>LinkedIn:</strong>
+<a href="https://www.linkedin.com/in/rdean-lheir-de-torres-b4ab00430">
+LinkedI
