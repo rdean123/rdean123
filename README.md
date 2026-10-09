@@ -32,4 +32,4 @@ I'm a <strong>Computer Science student</strong> interested in
 <p>
 💼 <strong>LinkedIn:</strong>
 <a href="https://www.linkedin.com/in/rdean-lheir-de-torres-b4ab00430">
-LinkedI
+LinkedIn
